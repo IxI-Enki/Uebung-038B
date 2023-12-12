@@ -1,4 +1,4 @@
-# Uebung-xxx -- Palindrom
+# Uebung-038B -- Palindrom Number
 
 
 ```c#
